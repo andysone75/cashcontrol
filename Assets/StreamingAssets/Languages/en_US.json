@@ -1,0 +1,44 @@
+{
+	"options": [
+		"Options", "Reset Progress", "Privacy Policy (web link)", "Back"
+	],
+	"ResetConfirmModal": [
+		"Reset progress",
+		"Are you sure you want to delete all saves?",
+		"No",
+		"Yes"
+	],
+	"Menu_Other": [
+		"Days left until update", "Profit"
+	],
+	"CostsInfo": [
+		"Total consumption", "Consumption for today", "Add"
+	],
+	"PursesInfo": [
+		"Add"
+	],
+	"IncomesInfo": [
+		"Total income", "Income for today", "Add"
+	],
+	"Switcher": [
+		"Costs", "Purses", "Incomes"
+	],
+	"ItemInfo": [
+		"CLOSE"
+	],
+	"PurseInfo": [
+		"TRANSFER", "CLOSE"
+	],
+	"AddingControl": [
+		"Name", "Next", "Add"
+	],
+	"AddingPurse": [
+		"New purse", "Name", "Amount", "Create"
+	],
+	"NoPursesModal": [
+		"No purses :(",
+		"To work with this currency, you must have at least one wallet for it. Do you want to create it?",
+		"Nope",
+		"Yep"
+	]
+}
